@@ -4,3 +4,4 @@ node_modules/
 *.ignore.*
 ignore
 dist
+packages/bot/privateKey/*

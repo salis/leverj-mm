@@ -15,10 +15,14 @@
     "@leverj/logger": "3.2.5",
     "@leverj/sinful-math": "3.2.5",
     "@leverj/zka": "3.2.5",
+    "affirm": "^0.1.3",
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.1",
     "bluebird": "^3.7.2",
+    "bufferutil": "^4.0.3",
     "config": "^3.3.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "mocha": "^8.2.1",
+    "utf-8-validate": "^5.0.4"
   }
 }
